@@ -13,3 +13,8 @@
 
 5 the related functions are included in the utils file.
 
+#the diagram of DCGAN for basement depth generating and DL architecture are presented as follow:
+
+![DCGAN示意图](https://github.com/user-attachments/assets/d4b5272a-b93f-4ec9-8b70-10b6cb5d7210)
+
+![DCGAN示意图GD](https://github.com/user-attachments/assets/657c2bf6-da99-4a9b-bbb7-e77227f6eadb)
