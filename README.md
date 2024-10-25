@@ -1,2 +1,2 @@
-# DCGAN_Basement
+# DCGAN-Basement
 Generation Maps of Basement by DCGAN
