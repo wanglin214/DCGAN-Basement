@@ -1,6 +1,8 @@
 ## DCGAN-Basement
 #Generation Maps of Basement by DCGAN
 
+#Hardware requirements: NVIDIA GPU ;Program language: Python 3.11 (Pytorch 2.1);Software required: PyCharm, Anaconda
+
 1 the codes are used to generate basement map according to the real-world basins
 
 2 the real maps are included in the data file
