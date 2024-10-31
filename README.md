@@ -1,7 +1,14 @@
-## DCGAN-Basement
-#Generation Maps of Basement by DCGAN
+# DCGAN-Basement
 
-#Hardware requirements: NVIDIA GPU ;Program language: Python 3.11 (Pytorch 2.1);Software required: PyCharm, Anaconda
+## What is this repository for?
+Generation Maps of Basement by DCGAN
+
+## Requirements:
+Hardware requirements: NVIDIA GPU ;Program language: Python 3.11 (Pytorch 2.1);Software required: PyCharm, Anaconda
+
+Data requirements: the only need data are basement maps from real-world basins, here we put some samples in the data file just fot test
+
+## how to get start?
 
 1 the codes are used to generate basement map according to the real-world basins.
 
@@ -13,7 +20,7 @@
 
 5 the related functions are included in the utils file.
 
-#the diagram of DCGAN for basement depth generating and DL architecture are presented as follow:
+## the diagram of DCGAN for basement depth generating and DL architecture are presented as follow:
 
 ![DCGAN示意图](https://github.com/user-attachments/assets/d4b5272a-b93f-4ec9-8b70-10b6cb5d7210)
 
